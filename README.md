@@ -27,7 +27,7 @@ This is a backend application for an **Assignment Submission Portal**. The porta
 
 ### **Folder Structure**
 ```
-Assignment-Portal/
+Assignment-Submission-Portal/
 │
 ├── models/
 │   ├── userModel.js         # User model (for users and admins)
@@ -58,8 +58,8 @@ Assignment-Portal/
 
 #### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/Assignment-Portal.git
-cd Assignment-Portal
+git clone https://github.com/your-username/Assignment-Submission-Portal.git
+cd Assignment-Submission-Portal
 ```
 
 #### **2. Install Dependencies**
